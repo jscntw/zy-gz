@@ -1,2 +1,1 @@
 # zy-gc
-dnsmasq
