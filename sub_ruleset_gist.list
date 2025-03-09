@@ -1,0 +1,20 @@
+DOMAIN-SUFFIX,jscn.net
+DOMAIN-SUFFIX,t-mobile.com
+DOMAIN-SUFFIX,hostloc.com
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,dmit.io
+DOMAIN-SUFFIX,giffgaff.com
+DOMAIN-SUFFIX,skinny.co.nz
+
+
+
+# yaml
+#payload:
+#    - +.jscn.net
+#    - +.t-mobile.com
+#    - +.hostloc.com
+#    - +.v2ex.com
+#    - +.dmit.io
+#    - +.giffgaff.com
+#    - +.skinny.co.nz
+  
