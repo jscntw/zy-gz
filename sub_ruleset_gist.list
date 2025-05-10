@@ -7,7 +7,6 @@ DOMAIN-SUFFIX,giffgaff.com
 DOMAIN-SUFFIX,skinny.co.nz
 DOMAIN-SUFFIX,arrowos.net
 
-
 # yaml
 #payload:
 #    - +.jscn.net
