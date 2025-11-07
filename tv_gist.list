@@ -1,9 +1,9 @@
 DOMAIN-KEYWORD,yahoo
-DOMAIN-KEYWORD,ddys
+# DOMAIN-KEYWORD,ddys
 DOMAIN-KEYWORD,sugoideas
 DOMAIN-KEYWORD,xiaoxintv
 DOMAIN-KEYWORD,xiaobaotv
-DOMAIN-SUFFIX,ddys.mov
+# DOMAIN-SUFFIX,ddys.mov
 DOMAIN-SUFFIX,xhamsterlive.com
 DOMAIN-SUFFIX,xiaoxintv.cc
 DOMAIN-SUFFIX,xiaobaotv.net
@@ -19,7 +19,7 @@ DOMAIN-SUFFIX,xiaoxintv.cc
 DOMAIN-SUFFIX,xiaoxintv.net
 DOMAIN-SUFFIX,sugoideas.com
 DOMAIN-SUFFIX,cnblogs.com
-DOMAIN-SUFFIX,misaka.be
+# DOMAIN-SUFFIX,misaka.be
 
 
 # yaml
@@ -44,3 +44,4 @@ DOMAIN-SUFFIX,misaka.be
 #    - DOMAIN-SUFFIX,xiaoxintv.cc
 #    - DOMAIN-SUFFIX,xiaoxintv.net
 #    - DOMAIN-SUFFIX,sugoideas.com
+
