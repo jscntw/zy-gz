@@ -20,6 +20,14 @@ DOMAIN-SUFFIX,xiaoxintv.net
 DOMAIN-SUFFIX,sugoideas.com
 DOMAIN-SUFFIX,cnblogs.com
 # DOMAIN-SUFFIX,misaka.be
+DOMAIN-SUFFIX,t-mobile.com
+DOMAIN-SUFFIX,hostloc.com
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,dmit.io
+DOMAIN-SUFFIX,giffgaff.com
+DOMAIN-SUFFIX,skinny.co.nz
+DOMAIN-SUFFIX,arrowos.net
+DOMAIN-SUFFIX,nodeseek.com
 
 
 # yaml
@@ -44,4 +52,5 @@ DOMAIN-SUFFIX,cnblogs.com
 #    - DOMAIN-SUFFIX,xiaoxintv.cc
 #    - DOMAIN-SUFFIX,xiaoxintv.net
 #    - DOMAIN-SUFFIX,sugoideas.com
+
 
